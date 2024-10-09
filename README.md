@@ -1,1 +1,1 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jaamarks&count_private=true&theme=tokyonight&showicons=true&hide=stars)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jaamarks&count_private=true&theme=blue-green&show_icons=true&hide=stars&custom_title=jaamarks'+GitHub+Stats&rank_icon=github)]()
